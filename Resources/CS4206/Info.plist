@@ -14,6 +14,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>iMac15,1 - Cirrus Logic CS4206 - internal speakers only (no headphone/optical switching)</string>
+				<key>Id</key>
+				<integer>122</integer>
+				<key>Path</key>
+				<string>layout122.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Khronokernel - Cirrus Logic CS4206 - MacBook6,1</string>
 				<key>Id</key>
 				<integer>1</integer>
@@ -223,6 +231,14 @@
 		</array>
 		<key>Platforms</key>
 		<array>
+			<dict>
+				<key>Comment</key>
+				<string>iMac15,1 - Cirrus Logic CS4206 - internal speakers only</string>
+				<key>Id</key>
+				<integer>122</integer>
+				<key>Path</key>
+				<string>PlatformiMac15_1.xml.zlib</string>
+			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Khronokernel - Cirrus Logic CS4206 - MacBook6,1</string>
